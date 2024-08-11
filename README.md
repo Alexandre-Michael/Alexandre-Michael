@@ -5,6 +5,6 @@
 <div>
   <a href="https://github.com/Alexandre-Michael">
     <img src="https://github-readme-stats.vercel.app/api?username=Alexandre-Michael&theme=dark&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Michael&theme=dark&hide_title=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Michael&theme=dark">
   </a>
 </div>
