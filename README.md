@@ -2,8 +2,6 @@
 
 > 👋 Olá! Meu nome é **Alexandre** e sonho em me tornar um desenvolvedor full stack. Atualmente, atuo na área de frontend 🎨, mas também estou me aprofundando em back-end 💻 para expandir meus conhecimentos.
 
-<p align="left">> 👋 Olá! Meu nome é **Alexandre** e sonho em me tornar um desenvolvedor full stack. Atualmente, atuo na área de frontend 🎨, mas também estou me aprofundando em back-end 💻 para expandir meus conhecimentos.</p>
-
 ###
 
 <div align="center">
