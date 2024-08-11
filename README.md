@@ -10,10 +10,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Michael&theme=dark">
   </a>
 </div>
-<div>
+
   ## Alguns projetos:
     - 1 - [Mini Paint](https://github.com/Alexandre-Michael/Mini-Paint)
     - 2 - [New PodTech (Production)](https://github.com/PodTech-IFS/PodTech-Rework)
     - 3 - [Old PodTech](https://github.com/Alexandre-Michael/PodTech)
-</div>
 
