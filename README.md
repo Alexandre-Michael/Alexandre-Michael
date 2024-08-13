@@ -46,12 +46,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Alexandre-Michael/count.svg?"  />
-</div>
-
-###
-
 ## Alguns projetos:
 
 - 1 - [Mini Paint](https://github.com/Alexandre-Michael/Mini-Paint)
