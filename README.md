@@ -1,6 +1,6 @@
 ## Eaii Seja Bem Vindo(a) Ao Meu Perfil!!🚀
 
-> 👋 Olá! Meu nome é **Alexandre** e sonho em me tornar um desenvolvedor full stack. Atualmente, atuo na área de frontend 🎨, mas também estou me aprofundando em back-end 💻 para expandir meus conhecimentos.
+> 👋 Olá! Meu nome é **Alexandre** teno 16 anos e sou um desenvolvedor. Atualmente, atuo na área de frontend 🎨, mas também estou me aprofundando em back-end 💻 para expandir meus conhecimentos.
 
 ###
 
