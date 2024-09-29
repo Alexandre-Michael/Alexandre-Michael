@@ -1,10 +1,5 @@
-## Eaii Seja Bem Vindo(a) Ao Meu Perfil!!🚀
 
-> 👋 Olá! Meu nome é **Alexandre** tenho 16 anos e sou um desenvolvedor. Atualmente, atuo na área de frontend 🎨, mas também estou me aprofundando em back-end 💻 para expandir meus conhecimentos.
-
-###
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00C9FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Alexandre+Michael;I'm+16+years+old;I+am+from+Sergipe,+Brazil;I+am+a+developer.!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Alexandre+Michael;I'm+16+years+old;I+am+from+Sergipe,+Brazil;I+am+a+developer.!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Alexandre-Michael?tab=repositories">
@@ -12,8 +7,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre-Michael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
   </a>
 </div>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Michael&bg_color=151515&color=ffffff&line=ffffff&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
