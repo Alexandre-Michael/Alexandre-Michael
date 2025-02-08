@@ -14,7 +14,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/Alexandre-Michael?tab=repositories">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-Michael&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-Michael&theme=dark&hide_border=False" />
   </a>
 </div>
 
