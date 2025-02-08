@@ -12,6 +12,13 @@
   </a>
 </div>
 <br>
+<div align="center">
+  <a href="https://github.com/Alexandre-Michael?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-Michael&theme=dark&hide_border=true" />
+  </a>
+</div>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandre-Michael&bg_color=151515&color=ffffff&line=ffffff&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
