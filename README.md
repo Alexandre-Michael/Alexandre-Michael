@@ -13,7 +13,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre-Michael&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="175" alt="languages graph" />
   </a>
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://github.com/Alexandre-Michael?tab=repositories">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Alexandre-Michael&theme=dark&hide_border=False" />
