@@ -48,6 +48,13 @@
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo" title="DJANGO"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" height="50" alt="bulma" title="BULMA"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap" title="BOOTSTRAP"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwind" title="TAILWIND"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" alt="react" title="REACT" />
+  <img width="12" />
 </div>
 
 ###
